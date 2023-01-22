@@ -38,7 +38,7 @@ pip install seaborn
 
 ## License
 
-Dishit
+Yash shah
 
 **Free Software, Hell Yeah!**
 
